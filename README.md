@@ -23,3 +23,4 @@ Aspiring Information Security Analyst with a solid foundation in cybersecurity, 
 
 ## Projects
 | Log analyzer Project - Developed a log analyzer tool in Kali Linux to process and visualize log data. Enhanced the ability to detect security incidents by identifying patterns and anomalies in log files.
+| Password Checker - This script provides a simple yet effective way to check the strength of a password and encourages the use of stronger passwords by providing clear feedback
