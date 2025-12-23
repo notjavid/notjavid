@@ -2,7 +2,7 @@
 # Hello, I'm Javid Jawaheer.
 <a href="https://www.linkedin.com/in/javid-jawaheer-759879306"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Recent with a student with a Bachlors degree in Cybersecurity with a concentration of Cyberoperations, I have a profound interest in technology and a dedication to solving problems :)
+I am a recent with a graduate student with a Bachlors degree in Cybersecurity with a concentration of Cyberoperations, I have a profound interest in technology and a dedication to solving problems :)
 
 ## Objective
 
