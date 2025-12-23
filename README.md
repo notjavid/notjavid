@@ -2,11 +2,11 @@
 # Hello, I'm Javid Jawaheer.
 <a href="https://www.linkedin.com/in/javid-jawaheer-759879306"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a current undergraduate student with a profound interest in technology and a dedication to solving problems :)
+I am a current graduate student with a profound interest in technology and a dedication to solving problems :)
 
 ## Objective
 
-Aspiring Information Security Analyst with a solid foundation in cybersecurity, known for tech adaptability and strong communication skills. Enthusiastic to successfully contribute to company security by utilizing technological skillsets and cybersecurity awareness.
+Aspiring Security Analyst with a solid foundation in cybersecurity, known for tech adaptability and strong communication skills. Enthusiastic to successfully contribute to company security by utilizing technological skillsets and cybersecurity awareness.
 
 ## Skills & Familiarties                                         
 | SIEM Implementation and Log Analysis          
