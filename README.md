@@ -23,5 +23,5 @@ Aspiring Security Analyst with a solid foundation in cybersecurity, known for te
 
 ## Projects
 | Log analyzer Project - Developed a log analyzer tool in Kali Linux to process and visualize log data. Enhanced the ability to detect security incidents by identifying patterns and anomalies in log files
-
 | Password Checker - This script provides a simple yet effective way to check the strength of a password and encourages the use of stronger passwords by providing clear feedback
+| Wazzuh SIEM home lab - Home lab SIEM built with Wazuh, Ubuntu 24.04, and Kali Linux on VMware — configured for threat detection, log monitoring, and security event analysis.
